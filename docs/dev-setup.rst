@@ -48,7 +48,7 @@ Next run a basic HTTP server with Python:
     # Python <= 2.7
     python -m SimpleHTTPServer
     # Python >= 3.0
-    python -m http.server
+    python3 -m http.server
 
 Now visit http://localhost:8000/ in your browser.
 
